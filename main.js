@@ -1,14 +1,14 @@
 const mineflayer = require('mineflayer')
 
-const bossName = "Makkusu_Otaku"; //Your name here.... unless?
-const prefix = "Bodyguard";
+const bossName = "teenteach"; //Your name here.... unless?
+const prefix = "JavaManTheGuy";
 
 const server = {
-	address: "localhost",
+	address: "cracked.chickencraft.nl",
 	version: "1.16.4",
 };
 
-const botCount = 3;
+const botCount = 1;
 const personalSpace = 4;
 
 var offset = 0;
